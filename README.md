@@ -9,7 +9,7 @@ I love solving complex problems and helping others, thus I develop software that
 Personal Endeavors:
 - 👀 I’m interested in making things in the virtual space,
 - 🌱 I’m currently learning how to develop C code to write to a complex chip,
-- 📫 <a href="https://www.devsimlem.github.io">Portolio!</a>
+- 📫 <a href="https://devsimlem.github.io/">Portolio!</a>
 
 <!---
 ironleman/ironleman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

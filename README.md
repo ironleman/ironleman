@@ -2,7 +2,7 @@ Hi there, I’m Simon Lemay 👋
 
 Glad to have you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
-I am primarily a back-end software engineer with an interest in video game development.
+I am a back-end software engineer with an interest in video game development. I love writing code, making games, and working out!
 
 I love solving complex problems and helping others, thus I develop software that makes a difference in the world!
 
